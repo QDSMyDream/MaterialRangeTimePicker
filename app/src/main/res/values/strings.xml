@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">MaterialRangeTimePicker</string>
+    <string name="tab_title_time">时间</string>
+    <string name="tab_title_date">日期</string>
+
+    <string name="title_activity_main">DateTimePicker Example</string>
+    <string name="selected_time">您选择的时间将显示在这里</string>
+    <string name="selected_date">您选择的日期将显示在这里</string>
+    <string name="selected_datetime">您选择的日期和时间将显示在这里</string>
+    <string name="pick_time">选择时间</string>
+    <string name="pick_date">选择日期</string>
+    <string name="original_button">框架选取器</string>
+    <string name="pick_datetime">选择日期+时间</string>
+    <string name="mode_24_hours">使用24小时模式</string>
+    <string name="mode_dark">使用深色主题</string>
+    <string name="mode_custom_accent">使用自定义重音</string>
+    <string name="vibrate">触摸时振动</string>
+    <string name="dismiss">暂停时关闭（例如：方向更改）</string>
+    <string name="title">显示标题</string>
+    <string name="show_version_2">使用棉花糖布局</string>
+    <string name="show_year_first">首先显示年份选取器</string>
+    <string name="enable_seconds">显示秒选取器</string>
+    <string name="enable_minutes">显示分钟选取器</string>
+    <string name="limit_times">限制可选时间</string>
+    <string name="limit_dates">限制可选日期</string>
+    <string name="disable_dates">禁用特定日期</string>
+    <string name="disable_times">禁用特定时间</string>
+    <string name="highlight_dates">突出显示特定日期</string>
+    <string name="switch_orientation">切换滚动方向</string>
+    <string name="default_selection">使用其他默认选择</string>
+    <string name="action_settings">设置</string>
+    <string name="tab_title_datetime">日期+时间</string>
+    <string name="auto_highlight_selected_date_span">自动突出显示所选日期</string>
+
+
 </resources>
